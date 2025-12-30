@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-         Now i am testing github actions 
+         Now i am checking for direct push
         </a>
       </header>
     </div>
