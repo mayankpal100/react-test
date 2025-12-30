@@ -1,0 +1,18 @@
+# Exclude version control files
+.git
+.svn
+.hg
+
+# Exclude dependencies (they will be installed inside the container)
+node_modules
+aws-react-deploy
+# Exclude local environment variables and configurations
+.env
+.env.*.local
+.DS_Store
+npm-debug.log
+yarn-error.log
+
+# Exclude build artifacts from local builds
+build
+dist

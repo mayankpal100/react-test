@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+         This is new version changes mayank 02
         </a>
       </header>
     </div>
